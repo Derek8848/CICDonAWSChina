@@ -2,5 +2,10 @@
 
 ## EC2/本地计算平台上的部署组建
 
-![](https://github.com/Derek8848/CICDonAWSChina/tree/master/images/deployment-components-workflow.png)
+![](./images/deployment-components-workflow.png)
+
+
+## EC2/本地计算平台部署工作流程
+
+![](./images/deployment-process.png)
 
